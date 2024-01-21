@@ -1,4 +1,4 @@
 Customer_Age,Months_on_book,Credit_Limit,Total_Revolving_Bal,Avg_Open_To_Buy,Total_Trans_Amt,Avg_Utilization_Ratio
 30,24,5000,1000,4000,1500,0.2
 40,36,10000,500,9500,3000,0.05
-42,24,8000,1200,6800,15000,0.85
+35,18,8000,1200,6800,15000,0.85
